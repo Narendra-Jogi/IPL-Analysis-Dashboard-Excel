@@ -84,7 +84,7 @@ Performed extensive data cleaning and standardization to improve consistency acr
 
 ### Main Dashboard
 
-![Dashboard](IPL Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Advanced Analysis
 
